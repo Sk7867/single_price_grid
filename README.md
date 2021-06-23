@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@ySk7867](https://www.frontendmentor.io/profile/Sk7867)
+- Frontend Mentor - [@Sk7867](https://www.frontendmentor.io/profile/Sk7867)
