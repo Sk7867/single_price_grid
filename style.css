@@ -171,7 +171,9 @@ footer {
   .container {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
-    width: 405px;
+    max-width: 405px;
+    width: 100%;
+    padding: 0 24px;
   }
 
   .message {
@@ -204,7 +206,9 @@ footer {
   }
 
   .sign_up {
-    width: 360px;
+    width: 100%;
+    max-width: 360px;
+    margin: 30px auto 0 auto;
   }
 
   .about {
